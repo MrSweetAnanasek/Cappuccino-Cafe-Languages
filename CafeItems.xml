@@ -281,7 +281,7 @@
 <wod id="4096" n="Basic" g="Counter" t="fHmtwo" cash="2444" gold="0" friends="0" goldNoFriends="0" releaseDate="1770082667" world="0" events="0" xp="0" level="5" />
 <wod id="4097" n="Basic" g="Counter" t="fHmone" cash="2444" gold="0" friends="0" goldNoFriends="0" releaseDate="1770082667" world="0" events="0" xp="0" level="5" />
 <wod id="4098" n="Basic" g="Deco" t="Borderglasslow" walkable="0" rotatetype="0" cash="5000" gold="0" friends="0" goldNoFriends="0" releaseDate="1779656400" world="0" events="0" xp="0" level="5" />
-<wod id="4099" n="Basic" g="Deco" t="Borderglasslup" walkable="0" rotatetype="0" cash="5000" gold="0" friends="0" goldNoFriends="0" releaseDate="1779656400" world="0" events="0" xp="0" level="5" />
+<wod id="4099" n="Basic" g="Deco" t="Borderglassup" walkable="0" rotatetype="0" cash="5000" gold="0" friends="0" goldNoFriends="0" releaseDate="1779656400" world="0" events="0" xp="0" level="5" />
 <wod id="4100" n="Static" g="Wall" t="SectionedGreenLights" cash="250" gold="0" friends="0" goldNoFriends="0" releaseDate="1779656400" world="0" events="0" xp="0" level="5" />
 <wod id="4101" n="Static" g="Wall" t="SectionedGreen" cash="200" gold="0" friends="0" goldNoFriends="0" releaseDate="1779656400" world="0" events="0" xp="0" level="5" />
 <wod id="4102" n="Static" g="Tile" t="GlassBlackLightsGreen" walkable="1" rotatetype="0" cash="88" gold="0" friends="0" goldNoFriends="0" releaseDate="1779656400" world="0" events="0" xp="0" level="5" />
