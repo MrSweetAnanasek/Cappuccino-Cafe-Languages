@@ -783,7 +783,7 @@
 <wod id="1408" n="Basic" g="Ingredient" t="Vanilla" cash="0" gold="1" friends="0" goldNoFriends="0" releaseDate="0" world="0" events="0" xp="0" level="0" category="fancy" amount="10" />
 <wod id="1409" n="Basic" g="Ingredient" t="Cinnamon" cash="0" gold="1" friends="0" goldNoFriends="0" releaseDate="0" world="0" events="0" xp="0" level="0" category="fancy" amount="10" />
 <wod id="1450" n="Basic" g="Ingredient" t="Cocktailcherry" cash="250" gold="0" friends="0" goldNoFriends="0" releaseDate="0" world="0" events="0" xp="0" level="9" category="fruits" amount="1" />
-<wod id="1347" n="Basic" g="Ingredient" t="Limelemon" cash="650" gold="0" friends="0" goldNoFriends="0" releaseDate="0" world="0" events="0" xp="0" level="9" category="fruits" amount="1" />
+<wod id="1347" n="Basic" g="Ingredient" t="Citrus" cash="650" gold="0" friends="0" goldNoFriends="0" releaseDate="0" world="0" events="0" xp="0" level="9" category="fruits" amount="1" />
 <wod id="1501" n="Cafe" g="Background" t="Village" />
 <wod id="1502" n="Marketplace" g="Background" t="Normal" />
 <wod id="1503" n="Static" g="Background" t="Villagewinter" />
