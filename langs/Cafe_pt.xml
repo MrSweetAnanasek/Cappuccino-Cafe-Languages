@@ -1129,7 +1129,7 @@ Apenas disponível por tempo limitado!" />
 		<text id="preparestep_strawberryjuice_strawberry" name="Lavar morangos" />
 		<text id="preparestep_strawberryjuice_sugar" name="Adicionar açúcar" />
 		<text id="preparestep_strawberryjuice_vanilla" name="Adicionar baunilha" />
-		<text id="preparestep_cappuccino_cookfest" name="Pensar na próximo Cookfest" />
+		<text id="preparestep_cappuccino_cookfest" name="Pensar na próxima Cookfest" />
 		<text id="preparestep_duckalcitrus_duck" name="Preparar pato" />
 		<text id="preparestep_duckalcitrus_butter" name="Derreter manteiga" />
 		<text id="preparestep_duckalcitrus_onion" name="Cortar cebola" />
@@ -1171,22 +1171,22 @@ Apenas disponível por tempo limitado!" />
 		<text id="preparestep_tiramisu_quark" name="Mexer o iorgute" />
 		<text id="preparestep_tiramisu_eggs" name="Separar ovos" />
 		<text id="preparestep_cappuccino_cinnamon" name="Polvilhar canela" />
-		<text id="preparestep_pridecupcakes_flour" name="Sift flour" />
-		<text id="preparestep_pridecupcakes_eggs" name="Crack eggs" />
-		<text id="preparestep_pridecupcakes_sugar" name="Measure sugar" />
-		<text id="preparestep_pridecupcakes_milk" name="Measure milk" />
-		<text id="preparestep_ratatouille_tomato" name="Cut tomatoes" />
-		<text id="preparestep_ratatouille_eggplant" name="Slice eggplant" />
-		<text id="preparestep_ratatouille_onion" name="Chop onions" />
-		<text id="preparestep_ratatouille_oil" name="Measure oil" />
-		<text id="preparestep_hotcherryricepudding_rice" name="Weigh rice" />
-		<text id="preparestep_hotcherryricepudding_cherries" name="Pit cherries" />
-		<text id="preparestep_hotcherryricepudding_sugar" name="Measure sugar" />
-		<text id="preparestep_hotcherryricepudding_milk" name="Measure milk" />
-		<text id="preparestep_coconutcake_flour" name="Sift flour" />
-		<text id="preparestep_coconutcake_eggs" name="Crack eggs" />
-		<text id="preparestep_coconutcake_coconut" name="Grate coconut" />
-		<text id="preparestep_coconutcake_sugar" name="Measure sugar" />
+		<text id="preparestep_pridecupcakes_flour" name="Peneirar a fatinha" />
+		<text id="preparestep_pridecupcakes_eggs" name="Quebrar ovos com orgulho" />
+		<text id="preparestep_pridecupcakes_sugar" name="Adoçar bem" />
+		<text id="preparestep_pridecupcakes_milk" name="Medir leite" />
+		<text id="preparestep_ratatouille_tomato" name="Cortar tomates" />
+		<text id="preparestep_ratatouille_eggplant" name="Cortar berinjela" />
+		<text id="preparestep_ratatouille_onion" name="Cortar cebolas" />
+		<text id="preparestep_ratatouille_oil" name="Medir óleo" />
+		<text id="preparestep_hotcherryricepudding_rice" name="Pesar arroz" />
+		<text id="preparestep_hotcherryricepudding_cherries" name="Preparar cerejas" />
+		<text id="preparestep_hotcherryricepudding_sugar" name="Medir açúcar" />
+		<text id="preparestep_hotcherryricepudding_milk" name="Medir leite" />
+		<text id="preparestep_coconutcake_flour" name="Peneirar farinha" />
+		<text id="preparestep_coconutcake_eggs" name="Quebrar ovos" />
+		<text id="preparestep_coconutcake_coconut" name="Ralar coco" />
+		<text id="preparestep_coconutcake_sugar" name="Medir açúcar" />
 		<text id="preparestep_corncake_cinnamon" name="Moer canela" />
 		<text id="preparestep_feijoada_beans" name="Cozinhar feijões" />
 		<text id="preparestep_feijoada_bacon" name="Cortar pedaços de bacon" />
@@ -1207,7 +1207,7 @@ Apenas disponível por tempo limitado!" />
 		<text id="preparestep_cherriecake_flour" name="Peneirar farinha" />
 		<text id="preparestep_cherriecake_sugar" name="Pesar açúcar" />
 		<text id="preparestep_cherrycompote_cherries" name="Descaroçar cerejas" />
-		<text id="preparestep_cherrycompote_sugar" name="caramelizar açúcar" />
+		<text id="preparestep_cherrycompote_sugar" name="Caramelizar açúcar" />
 		<text id="preparestep_chickenburger_chicken" name="Desossar galinha" />
 		<text id="preparestep_chickenburger_cucumber" name="Cortar Pepino" />
 		<text id="preparestep_chickenburger_flour" name="peneirar farinha" />
@@ -1475,10 +1475,10 @@ Apenas disponível por tempo limitado!" />
 		<text id="preparestep_francesinha_chili" name="Picar chili" />
 		<text id="preparestep_dorayaki_vanilla" name="Raspar baunhilha" />
 		<text id="preparestep_tiramisu_vanilla" name="Raspar baunhilha" />
-		<text id="preparestep_pridecupcakes_vanilla" name="Scrape out vanilla" />
-		<text id="preparestep_ratatouille_rosemary" name="Chop rosemary" />
-		<text id="preparestep_hotcherryricepudding_cinnamon" name="Sprinkle cinnamon" />
-		<text id="preparestep_fancy_coconutcake_vanilla" name="Scrape out vanilla" />
+		<text id="preparestep_pridecupcakes_vanilla" name="Raspar baunilha" />
+		<text id="preparestep_ratatouille_rosemary" name="Picar alecrim" />
+		<text id="preparestep_hotcherryricepudding_cinnamon" name="Moer canela" />
+		<text id="preparestep_fancy_coconutcake_vanilla" name="Raspar baunilha" />
 		<text id="preparestep_bananasplit_vanilla" name="raspar baunilha" />
 		<text id="preparestep_blackforestcherrycake_vanilla" name="Raspar baunilha" />
 		<text id="preparestep_pizzasalad_chili" name="Picar Chili" />
@@ -1589,10 +1589,10 @@ Apenas disponível por tempo limitado!" />
 		<text id="recipe_francesinha" name="Sanduíche Francesinha" />
 		<text id="recipe_dorayaki" name="Dorayaki" />
 		<text id="recipe_tiramisu" name="Tiramisu" />
-		<text id="recipe_pridecupcakes" name="Pride Cupcakes" />
+		<text id="recipe_pridecupcakes" name="Cupcakes LGBT" />
 		<text id="recipe_ratatouille" name="Ratatouille" />
-		<text id="recipe_hotcherryricepudding" name="Rice Pudding with Hot Cherries" />
-		<text id="recipe_coconutcake" name="Coconut Cake" />
+		<text id="recipe_hotcherryricepudding" name="Pudim de Arroz com Cerejas Quentes" />
+		<text id="recipe_coconutcake" name="Bolo Prestígio" />
 		<text id="recipe_beefstew" name="Carne Ensopada" />
 		<text id="recipe_blackforestcherrycake" name="Bolo Floresta Negra" />
 		<text id="recipe_cheeseburger" name="X-Burger" />
