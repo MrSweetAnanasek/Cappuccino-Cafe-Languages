@@ -221,14 +221,14 @@ Se você estocá-la, as porções existentes serão perdidas!" />
 		<text id="cookstep_dorayaki2" name="Deixando esfriar" />
 		<text id="cookstep_tiramisu1" name="Fazendo camadas" />
 		<text id="cookstep_tiramisu2" name="Montando Tiramisu" />
-		<text id="cookstep_pridecupcakes1" name="Mixing batter" />
-		<text id="cookstep_pridecupcakes2" name="Decorating" />
-		<text id="cookstep_ratatouille1" name="Prepping vegetables" />
-		<text id="cookstep_ratatouille2" name="Stacking" />
-		<text id="cookstep_hotcherryricepudding1" name="Cooking rice" />
-		<text id="cookstep_hotcherryricepudding2" name="Adding cherries" />
-		<text id="cookstep_coconutcake1" name="Mixing ingredients" />
-		<text id="cookstep_coconutcake2" name="Baking cake" />
+		<text id="cookstep_pridecupcakes1" name="Fazendo a cobertura" />
+		<text id="cookstep_pridecupcakes2" name="Decorando" />
+		<text id="cookstep_ratatouille1" name="Preparando vegetais" />
+		<text id="cookstep_ratatouille2" name="Montando" />
+		<text id="cookstep_hotcherryricepudding1" name="Esquentando cerejas" />
+		<text id="cookstep_hotcherryricepudding2" name="Preparando molho" />
+		<text id="cookstep_coconutcake1" name="Misturando ingredientes" />
+		<text id="cookstep_coconutcake2" name="Assando bolo" />
 		<text id="cookstep_blackforestcherrycake1" name="Misturando ingredientes" />
 		<text id="cookstep_blackforestcherrycake2" name="Assando bolo" />
 		<text id="cookstep_cheeseburger1" name="Fritando carne moída" />
@@ -1171,7 +1171,7 @@ Apenas disponível por tempo limitado!" />
 		<text id="preparestep_tiramisu_quark" name="Mexer o iorgute" />
 		<text id="preparestep_tiramisu_eggs" name="Separar ovos" />
 		<text id="preparestep_cappuccino_cinnamon" name="Polvilhar canela" />
-		<text id="preparestep_pridecupcakes_flour" name="Peneirar a fatinha" />
+		<text id="preparestep_pridecupcakes_flour" name="Peneirar a farinha" />
 		<text id="preparestep_pridecupcakes_eggs" name="Quebrar ovos com orgulho" />
 		<text id="preparestep_pridecupcakes_sugar" name="Adoçar bem" />
 		<text id="preparestep_pridecupcakes_milk" name="Medir leite" />
