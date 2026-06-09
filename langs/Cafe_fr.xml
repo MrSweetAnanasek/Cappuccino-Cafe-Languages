@@ -247,6 +247,8 @@
 		<text id="cookstep_veganplate2" name="Spreading rice" />
 		<text id="cookstep_neapolitancake1" name="Melting ingredients" />
 		<text id="cookstep_neapolitancake2" name="Baking cake" />
+		<text id="cookstep_strawberrycheesecake1" name="Mixing ingredients" />
+		<text id="cookstep_strawberrycheesecake2" name="Baking cake" />
 		<text id="cookstep_chocmousse2" name="Refroidir la mousse" />
 		<text id="cookstep_chocolatecake1" name="Mélanger les ingrédients" />
 		<text id="cookstep_chocolatecake2" name="Mettre au four" />
@@ -1258,6 +1260,11 @@
 		<text id="preparestep_neapolitancake_strawberry" name="Mash strawberries" />
 		<text id="preparestep_neapolitancake_flour" name="Sift flour" />
 		<text id="preparestep_neapolitancake_milk" name="Pour milk" />
+		<text id="preparestep_strawberrycheesecake_cream" name="Add Cream" />
+		<text id="preparestep_strawberrycheesecake_milk" name="Add Milk" />
+		<text id="preparestep_strawberrycheesecake_cookies" name="Crumble Cookies" />
+		<text id="preparestep_strawberrycheesecake_quark" name="Add Quark" />
+		<text id="preparestep_strawberrycheesecake_strawberry" name="Add Strawberries" />
 		<text id="preparestep_tiramisu_eggs" name="Separate eggs" />
 		<text id="preparestep_chocolatecheesecake_chocolate" name="Morceler le chocolat" />
 		<text id="preparestep_chocolatecheesecake_cookies" name="Émietter les biscuits" />
@@ -1561,6 +1568,7 @@
 		<text id="preparestep_malaichickennaan_coriander" name="Chop coriander" />
 		<text id="preparestep_veganplate_parsley" name="Chop parsley" />
 		<text id="preparestep_neapolitancake_vanilla" name="Scrape out vanilla" />
+		<text id="preparestep_strawberrycheesecake_vanilla" name="Add Vanilla" />
 		<text id="preparestep_cottagepotatoes_parsley" name="Chop parsley" />
 		<text id="preparestep_bananasplit_vanilla" name="Ecosser la vanille" />
 		<text id="preparestep_blackforestcherrycake_vanilla" name="Écosser la vanille" />
@@ -1686,6 +1694,7 @@
 		<text id="recipe_malaichickennaan" name="Malai Chicken Naan" />
 		<text id="recipe_veganplate" name="Vegan Plate" />
 		<text id="recipe_neapolitancake" name="Neapolitan Cake" />
+		<text id="recipe_strawberrycheesecake" name="Strawberry Cheesecake" />
 		<text id="recipe_chocmousse" name="Mousse au chocolat" />
 		<text id="recipe_chocolatecake" name="Gâteau au chocolat" />
 		<text id="recipe_chocolatecheesecake" name="Cheesecake chocolat" />
