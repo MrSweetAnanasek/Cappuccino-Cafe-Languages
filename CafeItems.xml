@@ -166,6 +166,17 @@
 <wod id="3171" n="Static" g="Wall" t="Window3" cash="4000" gold="0" friends="0" goldNoFriends="0" releaseDate="1771271131" world="0" events="0" xp="0" level="5" />
 <wod id="3172" n="Static" g="Tile" t="Invisible" walkable="1" rotatetype="0" cash="30" gold="0" friends="0" goldNoFriends="0" releaseDate="1778691600" world="0" events="0" xp="0" level="5" />
 <wod id="3188" n="Static" g="Wall" t="Invisible" cash="100" gold="0" friends="0" goldNoFriends="0" releaseDate="1778691600" world="0" events="0" xp="0" level="5" />
+<wod id="3189" n="Basic" g="Stove" t="Coolsilver" walkable="0" rotatetype="3" cash="8000" gold="0" friends="0" goldNoFriends="0" releaseDate="1781406000" world="0" events="0" xp="0" level="5" />
+<wod id="3190" n="Basic" g="Stove" t="Coolblack" walkable="0" rotatetype="3" cash="8000" gold="0" friends="0" goldNoFriends="0" releaseDate="1781406000" world="0" events="0" xp="0" level="5" />
+<wod id="3191" n="Basic" g="Stove" t="Coolblue" walkable="0" rotatetype="3" cash="8000" gold="0" friends="0" goldNoFriends="0" releaseDate="1781406000" world="0" events="0" xp="0" level="5" />
+<wod id="3192" n="Basic" g="Stove" t="Coolpink" walkable="0" rotatetype="3" cash="8000" gold="0" friends="0" goldNoFriends="0" releaseDate="1781406000" world="0" events="0" xp="0" level="5" />
+<wod id="3193" n="Basic" g="Stove" t="Coolgreen" walkable="0" rotatetype="3" cash="8000" gold="0" friends="0" goldNoFriends="0" releaseDate="1781406000" world="0" events="0" xp="0" level="5" />
+<wod id="3194" n="Basic" g="Stove" t="Coolorange" walkable="0" rotatetype="3" cash="8000" gold="0" friends="0" goldNoFriends="0" releaseDate="1781406000" world="0" events="0" xp="0" level="5" />
+<wod id="3195" n="Basic" g="Stove" t="Coollavender" walkable="0" rotatetype="3" cash="8000" gold="0" friends="0" goldNoFriends="0" releaseDate="1781406000" world="0" events="0" xp="0" level="5" />
+<wod id="3196" n="Basic" g="Stove" t="Coolpurple" walkable="0" rotatetype="3" cash="8000" gold="0" friends="0" goldNoFriends="0" releaseDate="1781406000" world="0" events="0" xp="0" level="5" />
+<wod id="3197" n="Basic" g="Stove" t="Coollightbrown" walkable="0" rotatetype="3" cash="8000" gold="0" friends="0" goldNoFriends="0" releaseDate="1781406000" world="0" events="0" xp="0" level="5" />
+<wod id="3198" n="Basic" g="Stove" t="Coolbrown" walkable="0" rotatetype="3" cash="8000" gold="0" friends="0" goldNoFriends="0" releaseDate="1781406000" world="0" events="0" xp="0" level="5" />
+<wod id="3199" n="Basic" g="Stove" t="Coolred" walkable="0" rotatetype="3" cash="8000" gold="0" friends="0" goldNoFriends="0" releaseDate="1781406000" world="0" events="0" xp="0" level="5" />
 <wod id="3173" n="Basic" g="Chair" t="VipChairGreen" walkable="0" rotatetype="3" cash="950" gold="0" friends="0" goldNoFriends="0" releaseDate="1778698800" world="0" events="0" xp="0" level="5" />
 <wod id="3174" n="Basic" g="Chair" t="Dinergreen" walkable="0" rotatetype="3" cash="1600" gold="0" friends="0" goldNoFriends="0" releaseDate="1778698800" world="0" events="0" xp="0" level="1" />
 <wod id="3175" n="Basic" g="Deco" t="Drinkshelftrop" walkable="0" rotatetype="2" cash="25000" gold="0" friends="0" goldNoFriends="0" releaseDate="1778698800" world="0" events="0" xp="0" level="10" />
