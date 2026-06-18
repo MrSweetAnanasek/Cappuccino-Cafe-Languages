@@ -46,7 +46,7 @@
 		<text id="alert_buytiles_title" name="Chcesz położyć kafelki?" />
 		<text id="alert_changePasswordFaild_copy" name="Twoje nowe hasło powinno być dłuższe niż 2 znaki a stare hasło powinno być podane prawidłowo!" />
 		<text id="alert_changePasswordFaild_title" name="Podaj hasło" />
-		<text id="alert_clearstove_cancelButton" name="Zatrzymaj" />
+		<text id="alert_clearstove_cancelButton" name="Anuluj" />
 		<text id="alert_clearstove_okButton" name="Oddaj" />
 		<text id="alert_clearstove_title" name="Z tego blatu zostanie podane wkrótce jedzenie. Czy chcesz zachowac potrawę?" />
 		<text id="alert_counter_outofreach_copy" name="Blat nie jest dostepny. Spróbuj cos przestawić!" />
@@ -899,7 +899,7 @@
 		<text id="featureDialog_0_text_2_sozial" name="Dowiedz się kto jeszcze gra w café!" />
 		<text id="featureDialog_10_text_0" name="Potrzebujesz więcej miejsca dla gości lub dekoracji? Zobacz nowe poszerzenia!" />
 		<text id="featureDialog_11_text_0" name="Nowe ekscytujące Co-Ops dla Ciebie i Twoich przyjaciół!" />
-		<text id="featureDialog_16_text_0" name="Co za uczta dla Twoich uszu!Graj teraz w Café z dźwiękiem !" />
+		<text id="featureDialog_16_text_0" name="Co za uczta dla Twoich uszu! Graj teraz w Café z dźwiękiem !" />
 		<text id="featureDialog_16_text_1" name="Zostań cukiernikiem z nowymi cukierniczymi dekoracjami!" />
 		<text id="featureDialog_17_text_0" name="Wesołych Świąt! Przynieś Biegun Północny do Twojej café dzięki wspaniałym świątecznym dekoracjom." />
 		<text id="featureDialog_18_text_0" name="Świąteczna atmosfera zawitała na dobre wraz z nowymi potrawami i zadaniami Co-Ops !" />
@@ -1700,14 +1700,14 @@
 		<text id="recipe_baiaodedois" name="Baião de Dois" />
 		<text id="recipe_bakedalaska" name="Baked Alaska" />
 		<text id="recipe_butterchicken" name="Kurczak z masłem" />
-		<text id="recipe_chickenbiryani" name="Chicken Biriyani" />
+		<text id="recipe_chickenbiryani" name="Kurczak Biriyani" />
 		<text id="recipe_cottagepotatoes" name="Cottage Potatoes" />
 		<text id="recipe_cuzcuzcomovo" name="Couscous with Egg" />
-		<text id="recipe_malaichickennaan" name="Malai Chicken Naan" />
+		<text id="recipe_malaichickennaan" name="Kurczak Malai Naan" />
 		<text id="recipe_veganplate" name="Talerz wegański" />
-		<text id="recipe_neapolitancake" name="Neapolitan Cake" />
+		<text id="recipe_neapolitancake" name="Ciasto neopolitańskie" />
 		<text id="recipe_strawberrycheesecake" name="Sernik truskawkowy" />
-		<text id="recipe_combomeal" name="Combo Meal" />
+		<text id="recipe_combomeal" name="Posiłek dwudaniowy" />
 		<text id="recipe_blackforestcherrycake" name="Wiśniowy tort ze Schwarzwaldu" />
 		<text id="recipe_cheeseburger" name="Cheeseburger" />
 		<text id="recipe_cheesedish" name="Talerz serów" />
@@ -1718,9 +1718,9 @@
 		<text id="recipe_chickensalad" name="Sałatka z kurczaka" />
 		<text id="recipe_chickensoup" name="Rosół" />
 		<text id="recipe_chiliconcarne" name="Chili con Carne" />
-		<text id="recipe_chocmousse" name="Mousse au Chocolat" />
+		<text id="recipe_chocmousse" name="Mus czekoladowy" />
 		<text id="recipe_chocolatecake" name="Ciasto czekoladowe" />
-		<text id="recipe_chocolatecheesecake" name="Czekoladowy sernik" />
+		<text id="recipe_chocolatecheesecake" name="Sernik czekoladowy" />
 		<text id="recipe_chocolatefondue" name="Czekoladowe fondue" />
 		<text id="recipe_christmasturkey" name="Świąteczna pieczeń" />
 		<text id="recipe_cookieplate" name="Talerz ciasteczek" />
@@ -1837,8 +1837,8 @@
 		<text id="tt_Basic_Achievement_Jobserve" name="Rozdane talerze podczas pracy" />
 		<text id="tt_Basic_Achievement_Masteies" name="Ilość zdobytych gwiazdek" />
 		<text id="tt_Basic_Achievement_Masteriesgold" name="Ilość osiągniętych złotych gwiazdek" />
-		<text id="tt_Basic_Achievement_Muffinmancash" name="Wygrane café dolary w Piekarzu Muffinów" />
-		<text id="tt_Basic_Achievement_Muffinmangold" name="Wygrane złoto w Piekarzu Muffinów" />
+		<text id="tt_Basic_Achievement_Muffinmancash" name="Wygrane café dolary w Piekarni Muffinów" />
+		<text id="tt_Basic_Achievement_Muffinmangold" name="Wygrane złoto w Piekarni Muffinów" />
 		<text id="tt_Basic_Achievement_Overcookedfoods" name="Ilość zepsutych potraw" />
 		<text id="tt_Basic_Achievement_Servingcountmeals" name="Ilość ugotowanych głównych dań" />
 		<text id="tt_Basic_Achievement_Servingcountsalads" name="Ilość ugotowanych sałatek" />
